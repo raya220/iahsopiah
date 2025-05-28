@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("Nama saya iah Sopiah")
 st.write(
-    "Dari majelis taklim albarokah"
+    "dari majelis taklim albarokah"
 )
